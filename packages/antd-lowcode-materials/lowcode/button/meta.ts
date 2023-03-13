@@ -127,6 +127,10 @@ export default {
               props: {
                 options: [
                   {
+                    title: '默认按钮',
+                    value: 'default',
+                  },
+                  {
                     title: '主按钮',
                     value: 'primary',
                   },
